@@ -1,3 +1,10 @@
+# About
+This is a clone of Codepen developed using React Js and MaterialUI. 
+
+<b>Deployed Link</b> : https://657215538d26b6074ecfebe8--calm-donut-7544e3.netlify.app/
+# Output
+![image](https://github.com/TeghSinghJ/penCode-editor/assets/81065036/7479feca-b6bd-4722-b7c1-14bf8c5e907a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
