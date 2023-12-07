@@ -1,0 +1,12 @@
+@import 'codemirror/lib/codemirror.css';
+@import 'codemirror/theme/material.css';
+.CodeMirror{
+  height: 340px !important;
+  color: white;
+}
+.CodeMirror-gutters{
+  background: #404040 !important;
+}
+.CodeMirror-scroll{
+  background: #404040;
+}
